@@ -1,0 +1,354 @@
+body
+{
+	margin:0 auto;
+	background-color:#BFD7ED;
+}
+.outer
+{
+	width:1366px;
+	height:2000px;
+	margin:0 auto;
+	background-color:white;
+	}
+.logo
+{
+	float:left;
+	margin-left:25px;
+}
+.header
+{
+	
+	width:1366px;
+	height:200px;
+	
+	background-color:#0E86B4;
+	font-size:28px;
+	font-family:Gill Sans;
+	float:center;
+}
+.name
+{
+	
+	width:550px;
+	height:70px;
+	
+	color:white;
+	font-size:32px;
+	font-family:Gill Sans;
+	float:left;
+	font-weight:bold;
+	margin: 15px 0px 50px 75px;
+}
+black
+{
+	
+	color:black;
+	font-size:16px;
+}	
+	
+.menubar
+{
+	
+	width:1100px;
+	height:60px;
+	background-color:#FD9A0;
+	text-bottom:white;
+	float:right;
+	
+}
+.menu
+{
+	width:170px;
+	height:50px;
+	background-color:#05509D;
+	float:left;
+	
+	
+	color:white;
+	font-size:32px;
+	
+	text-align:center;
+}
+.menu:hover
+{
+	background-color:white;
+	color:#05509D;
+	
+
+	
+}
+.slider
+{
+	width:1366px;
+	height:550px;
+	margin-top:0px;
+	background-color:black;
+	float:left;
+}
+.main
+{
+	width:1366px;
+	float:left;
+	min-height:450px;
+	background-color:#FD9A0;
+	
+}
+.mleft
+{
+	width:250px;
+	height:990px;
+	background-color:white;
+	float:left;
+	box-sizing:border-box;
+	border:1px outset white;
+		
+}
+.mright
+{
+		width:1094px;
+		min-height:910px;
+		background-color:#fff;
+		color:black;
+		float:right;
+		padding:10px 10px;
+		text-align:justify;
+		font-size:32px;
+		
+}
+	.curow
+{
+width:900px;
+height:60px;
+margin:20px auto;
+background-color:#eee;
+border-radius:10px;
+
+}
+.culeft, .curight
+{
+width:250px;
+height:50px;
+float:left;
+font-size:24px;
+padding:10px 0 0 20px;
+box-sizing:border-box;
+}
+.curight
+{
+width:649px;
+border-left:1px solid #000;
+}
+.text
+{
+	width:900px;
+height:60px;
+
+font-weight:bold;
+clear:both;
+
+
+}
+.lmenu
+{
+	width:170px;
+	height:50px;
+	background-color:#05509D;
+	float:left;
+	margin:20px 30px;
+	color:white;
+	font-size:32px;
+	text-align:center;
+	box-sizing:border-box;
+}
+
+.lmenu:hover
+{
+	background-color:#000;
+	margin:30px 0px 30px 70px;
+	border-radius:5px;
+	transition:3s;
+}
+a
+{
+	text-decoration:none;
+	
+}
+red
+{
+	color:red;
+}
+.gimage
+{
+	width:300px;
+	height:200px;
+	margin:60px 30px ;
+	font-size:16px;	
+	background-color:white;
+	float:left;
+	text-align:center;
+	transition:.1s ease;
+}
+.gimage:hover
+{
+	
+	
+	opacity:0.8;
+	transition:.1s ease;
+	transform:scale(2,2);
+	
+}
+button
+{
+	width:150px;
+	height:50px;
+	background-color:
+}
+table
+{
+	width:1366px;
+	border:3px double black;
+	text-align:left;
+	color:#FD9A0;
+	font-size:24px;
+	font-weight:bold;
+}
+ .input-icons i {
+            position: absolute;
+			
+        }
+          
+        .input-icons {
+            width:50px;
+            margin-bottom: 10px;
+        }
+          
+        .icon {
+			background-color:black;
+			color:white;
+			text-align:center;
+            padding: 10px;
+            min-width: 40px;
+        }
+          .input-field {
+            width: 290px;
+            padding: 10px 40px;
+            text-align: left;
+			font-weight:bold;
+        }
+		
+.left
+{
+	width:660px;
+	height:600px;
+	float:left;
+	border:2px solid black;
+}
+.right
+{
+	width:660px;
+	height:600px;
+	float:right;
+	border:2px solid black;
+}
+.elleft, .erleft
+{
+	width:265px;
+	height:550px;
+	float:left;
+	margin:5px 20px;
+	font-weight:bold;
+	font-size:24px;
+	border:2px solid black;
+	padding:20px 0px;
+	float:left;
+}
+.elright,.erright
+{
+	width:275px;
+	height:550px;
+	float:right;
+	margin:5px 20px;
+	padding:20px 5px;
+	border:2px solid black;
+}
+button
+{
+	width:450px;
+	height:50px;
+	border-radius:10px;
+	background-color:#05509D;
+	color:white;
+	margin-bottom:10px;
+}
+button:hover
+{
+	
+	background-color:white;
+	color:#05509D;
+}
+.footer
+{
+	width:1366px;
+	height:200px;
+	background-color:#0E86B4;
+	clear:both;
+}
+.fmenus
+{
+	height: 50px;
+	float: left;
+	font-size:32px;
+	margin-top:50px;
+	color:white;
+	padding:0 10px;
+	border-right:1px solid white;
+	
+}
+.ml 
+{
+	margin-left:500px;
+}
+
+.tarea
+{
+	width:900px;
+	height:95px;
+	font-weight:44px;
+	padding-top:0px;
+}
+.input
+{
+	width:600px;
+	height:50px;
+	font-size:24px;
+	font-weight:bold;
+	padding-left:30px;
+}
+.ht100
+{
+	height:100px;
+}
+.ck
+{
+	width:20px;
+		height:20px;
+}
+.area
+{
+	width:600px;
+	height:95px;
+	border-left:1px solid #000;
+}
+.btn
+{
+	
+	background-color:#05509D;
+	font-size:20px;
+	font-weight:bold;
+		color:white;
+}
+
+
+	
+
+		
